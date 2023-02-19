@@ -16,11 +16,11 @@ The tools are being developed in Pascal, using TMT Pascal. However, the source c
 
 ## Screen
 
-[b]PV386[/b]
+PV386
 ![](https://github.com/dzutrinh/PV386/blob/main/screen1.png)
 
-[b]CQUANT[/b]
+CQUANT
 ![](https://github.com/dzutrinh/PV386/blob/main/screen2.png)
 
-[b]BLIT[/b]
+BLIT
 ![](https://github.com/dzutrinh/PV386/blob/main/screen3.png)
