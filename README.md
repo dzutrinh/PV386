@@ -13,6 +13,7 @@ Currently the viewer supports loading and displaying the following image formats
 ACT, BMP, BW, CEL, COL, GIF, IFF, INT, JPE, JPG (no progressive), LBM, PNM (binary), PCX, PIC (Pictor), QOI, RAS, RAW, RGB, SCI, SCX, SGI, TGA and XPM (crappy).
 
 The tools are being developed in Pascal, using TMT Pascal. However, the source code is not available at the moment :)
+Tested under DOSBox and Windows XP NTVDM
 
 ## Screen
 
