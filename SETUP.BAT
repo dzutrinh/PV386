@@ -1,10 +1,17 @@
 @echo off
-if not exist pv386.exe goto error
+rem *-------------------------*
+rem *                         *
+rem *  P V 3 8 6 - S E T U P  *
+rem *                         *
+rem *-------------------------*
 
-pv386 -c
+set pvbin=PV386.EXE
+if not exist %pvbin% goto error
+
+%pvbin% -c
 goto end
 
 :error
-echo Error: PV386.EXE is not found
+echo Error: %pvbin% is not found. Reinstall may fix the problem.
 
 :end
